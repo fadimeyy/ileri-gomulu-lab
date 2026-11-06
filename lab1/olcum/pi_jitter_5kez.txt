@@ -1,0 +1,5 @@
+blok=100 periyot: min=184.7 maks=516.9 ort=241.3 sd=78.37 us
+blok=100 periyot: min=184.7 maks=217.0 ort=185.9 sd=2.23 us
+blok=100 periyot: min=186.9 maks=307.5 ort=189.3 sd=10.04 us
+blok=100 periyot: min=183.0 maks=218.3 ort=185.4 sd=2.60 us
+blok=100 periyot: min=184.7 maks=226.9 ort=186.5 sd=2.58 us

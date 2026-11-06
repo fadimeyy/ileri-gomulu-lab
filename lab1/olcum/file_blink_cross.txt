@@ -1,0 +1,1 @@
+blink: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=698da9ceea3198e0a559056fdbd27e3645de8a94, for GNU/Linux 3.7.0, not stripped

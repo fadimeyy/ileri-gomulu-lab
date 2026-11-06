@@ -1,0 +1,1 @@
+﻿blok=100 periyot: min=2964 maks=4376 ort=2988.5 sd=44.12 cevrim (240 MHz)

@@ -1,0 +1,12 @@
+Bolum A: 1 Hz yanip sonme (5 kez)
+Bolum B: en yuksek hizda degistirme (Ctrl+C ile cikis)
+100000 periyot, 0.256 s, ortalama f = 390.5 kHz
+100000 periyot, 0.196 s, ortalama f = 509.2 kHz
+100000 periyot, 0.196 s, ortalama f = 510.6 kHz
+100000 periyot, 0.196 s, ortalama f = 509.9 kHz
+100000 periyot, 0.196 s, ortalama f = 509.4 kHz
+100000 periyot, 0.196 s, ortalama f = 509.4 kHz
+100000 periyot, 0.196 s, ortalama f = 509.8 kHz
+100000 periyot, 0.196 s, ortalama f = 510.2 kHz
+100000 periyot, 0.196 s, ortalama f = 509.3 kHz
+100000 periyot, 0.196 s, ortalama f = 509.4 kHz

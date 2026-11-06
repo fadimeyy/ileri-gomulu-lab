@@ -1,0 +1,1 @@
+blok=100 periyot: min=187.0 maks=694.3 ort=217.9 sd=85.81 us

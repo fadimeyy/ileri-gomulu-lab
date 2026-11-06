@@ -1,0 +1,20 @@
+I (265) lab2: Madde 2: N_TOGGLE=1000000, N_TUR=5
+I (695) lab2: gpio_set_level tur 1: 425296 us, f = 2351303 Hz
+I (1165) lab2: gpio_set_level tur 2: 425277 us, f = 2351408 Hz
+I (1635) lab2: gpio_set_level tur 3: 425277 us, f = 2351408 Hz
+I (2105) lab2: gpio_set_level tur 4: 425277 us, f = 2351408 Hz
+I (2575) lab2: gpio_set_level tur 5: 425277 us, f = 2351408 Hz
+I (2625) lab2: gpio_set_level ortalama: f = 2351387 Hz
+I (2745) lab2: GPIO struct    tur 1: 125080 us, f = 7994883 Hz
+I (2915) lab2: GPIO struct    tur 2: 125077 us, f = 7995075 Hz
+I (3085) lab2: GPIO struct    tur 3: 125077 us, f = 7995075 Hz
+I (3255) lab2: GPIO struct    tur 4: 125077 us, f = 7995075 Hz
+I (3425) lab2: GPIO struct    tur 5: 125077 us, f = 7995075 Hz
+I (3475) lab2: GPIO struct    ortalama: f = 7995036 Hz
+I (3595) lab2: ham register   tur 1: 125076 us, f = 7995138 Hz
+I (3765) lab2: ham register   tur 2: 125077 us, f = 7995075 Hz
+I (3935) lab2: ham register   tur 3: 125077 us, f = 7995075 Hz
+I (4105) lab2: ham register   tur 4: 125077 us, f = 7995075 Hz
+I (4275) lab2: ham register   tur 5: 125077 us, f = 7995075 Hz
+I (4325) lab2: ham register   ortalama: f = 7995087 Hz
+I (4325) lab2: Olcum bitti.

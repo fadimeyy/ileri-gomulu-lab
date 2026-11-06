@@ -1,0 +1,634 @@
+[0;32mI (8345) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.006 min= 499.788 max= 500.137 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (8345) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.275 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,3
+hist,esp_timer,499,215
+hist,esp_timer,500,3416
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (10365) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.005 min= 499.825 max= 500.100 (us)[0m
+hist,GPTimer,499,12
+hist,GPTimer,500,4028
+[0;32mI (10365) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.275 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,3
+hist,esp_timer,499,212
+hist,esp_timer,500,3419
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (12385) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.938 max= 500.062 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (12385) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (14405) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.837 max= 500.087 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (14405) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (16425) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.075 (us)[0m
+hist,GPTimer,499,16
+hist,GPTimer,500,4024
+[0;32mI (16425) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (18445) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.030 min= 498.613 max= 501.300 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,13
+hist,GPTimer,500,4025
+hist,GPTimer,501,1
+[0;32mI (18445) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.814 min= 492.692 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,216
+hist,esp_timer,500,3423
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (20465) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.052 min= 498.212 max= 501.800 (us)[0m
+hist,GPTimer,498,2
+hist,GPTimer,499,17
+hist,GPTimer,500,4019
+hist,GPTimer,501,2
+[0;32mI (20465) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.816 min= 491.092 max= 506.363 (us)[0m
+hist,esp_timer,491,1
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,218
+hist,esp_timer,500,3413
+hist,esp_timer,501,2
+hist,esp_timer,502,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (22495) lab2: GPTimer   n= 4060 ort= 500.000 ss=  0.009 min= 499.812 max= 500.238 (us)[0m
+hist,GPTimer,499,30
+hist,GPTimer,500,4030
+[0;32mI (22495) lab2: esp_timer n= 4053 ort= 500.002 ss=  1.812 min= 494.100 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,217
+hist,esp_timer,500,3427
+hist,esp_timer,501,2
+hist,esp_timer,505,202
+hist,esp_timer,506,1
+[0;32mI (24515) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.863 max= 500.062 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (24515) lab2: esp_timer n= 4040 ort= 499.999 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,3
+hist,esp_timer,499,213
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (26535) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.027 min= 498.775 max= 501.188 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,16
+hist,GPTimer,500,4022
+hist,GPTimer,501,1
+[0;32mI (26535) lab2: esp_timer n= 4047 ort= 499.999 ss=  1.812 min= 492.679 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,201
+hist,esp_timer,496,1
+hist,esp_timer,498,1
+hist,esp_timer,499,216
+hist,esp_timer,500,3425
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (28555) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.006 min= 499.788 max= 500.212 (us)[0m
+hist,GPTimer,499,20
+hist,GPTimer,500,4020
+[0;32mI (28555) lab2: esp_timer n= 4033 ort= 500.002 ss=  1.812 min= 494.188 max= 506.363 (us)[0m
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3412
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (30575) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.026 min= 498.775 max= 501.137 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,15
+hist,GPTimer,500,4023
+hist,GPTimer,501,1
+[0;32mI (30575) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.814 min= 492.692 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,217
+hist,esp_timer,500,3422
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (32595) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.043 min= 498.500 max= 501.500 (us)[0m
+hist,GPTimer,498,2
+hist,GPTimer,499,19
+hist,GPTimer,500,4017
+hist,GPTimer,501,2
+[0;32mI (32595) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.814 min= 492.204 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,216
+hist,esp_timer,500,3415
+hist,esp_timer,501,3
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (34615) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.018 min= 499.250 max= 500.725 (us)[0m
+hist,GPTimer,499,21
+hist,GPTimer,500,4019
+[0;32mI (34615) lab2: esp_timer n= 4033 ort= 500.002 ss=  1.812 min= 494.125 max= 506.363 (us)[0m
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,215
+hist,esp_timer,500,3411
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (36635) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.938 max= 500.062 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (36635) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (38655) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.113 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (38655) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (40675) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.875 max= 500.075 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (40675) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (42695) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.003 min= 499.913 max= 500.075 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (42695) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (44715) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.005 min= 499.788 max= 500.125 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (44715) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (46735) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.062 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (46735) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (48755) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.005 min= 499.788 max= 500.125 (us)[0m
+hist,GPTimer,499,12
+hist,GPTimer,500,4028
+[0;32mI (48755) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.814 min= 492.679 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,201
+hist,esp_timer,497,1
+hist,esp_timer,498,1
+hist,esp_timer,499,211
+hist,esp_timer,500,3421
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (50775) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.012 min= 499.525 max= 500.462 (us)[0m
+hist,GPTimer,499,19
+hist,GPTimer,500,4021
+[0;32mI (50775) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.275 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (52795) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.003 min= 499.938 max= 500.062 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (52795) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (54815) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.050 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (54815) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (56835) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.003 min= 499.925 max= 500.050 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (56835) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (58855) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.075 (us)[0m
+hist,GPTimer,499,16
+hist,GPTimer,500,4024
+[0;32mI (58855) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (60875) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.050 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (60875) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (62895) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.887 max= 500.062 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (62895) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (64915) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.009 min= 499.600 max= 500.375 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (64915) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3418
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (66935) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.005 min= 499.788 max= 500.125 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (66935) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (68955) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.062 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (68955) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (70975) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.075 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (70975) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (72995) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.100 (us)[0m
+hist,GPTimer,499,12
+hist,GPTimer,500,4028
+[0;32mI (72995) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (75015) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.062 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (75015) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (77035) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.062 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (77035) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (79055) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.087 (us)[0m
+hist,GPTimer,499,12
+hist,GPTimer,500,4028
+[0;32mI (79055) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (81075) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.034 min= 498.438 max= 501.475 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,13
+hist,GPTimer,500,4025
+hist,GPTimer,501,1
+[0;32mI (81075) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.816 min= 491.217 max= 506.363 (us)[0m
+hist,esp_timer,491,1
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,215
+hist,esp_timer,500,3423
+hist,esp_timer,501,1
+hist,esp_timer,502,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (83105) lab2: GPTimer   n= 4060 ort= 500.000 ss=  0.006 min= 499.900 max= 500.150 (us)[0m
+hist,GPTimer,499,26
+hist,GPTimer,500,4034
+[0;32mI (83105) lab2: esp_timer n= 4053 ort= 500.002 ss=  1.812 min= 494.137 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,219
+hist,esp_timer,500,3425
+hist,esp_timer,501,2
+hist,esp_timer,505,202
+hist,esp_timer,506,1
+[0;32mI (85125) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.825 max= 500.100 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (85125) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.814 min= 492.629 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,201
+hist,esp_timer,497,1
+hist,esp_timer,498,1
+hist,esp_timer,499,212
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,502,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (87145) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.009 min= 499.637 max= 500.363 (us)[0m
+hist,GPTimer,499,22
+hist,GPTimer,500,4018
+[0;32mI (87145) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.275 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,217
+hist,esp_timer,500,3416
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (89165) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.024 min= 498.887 max= 501.050 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,11
+hist,GPTimer,500,4027
+hist,GPTimer,501,1
+[0;32mI (89165) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.814 min= 492.767 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,202
+hist,esp_timer,498,3
+hist,esp_timer,499,214
+hist,esp_timer,500,3423
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (91185) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.027 min= 499.000 max= 500.988 (us)[0m
+hist,GPTimer,499,23
+hist,GPTimer,500,4017
+[0;32mI (91185) lab2: esp_timer n= 4033 ort= 500.002 ss=  1.812 min= 494.100 max= 506.363 (us)[0m
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3414
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (93205) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.837 max= 500.125 (us)[0m
+hist,GPTimer,499,16
+hist,GPTimer,500,4024
+[0;32mI (93205) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3420
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (95225) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.875 max= 500.062 (us)[0m
+hist,GPTimer,499,12
+hist,GPTimer,500,4028
+[0;32mI (95225) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (97245) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.925 max= 500.075 (us)[0m
+hist,GPTimer,499,14
+hist,GPTimer,500,4026
+[0;32mI (97245) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (99265) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.850 max= 500.087 (us)[0m
+hist,GPTimer,499,13
+hist,GPTimer,500,4027
+[0;32mI (99265) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,212
+hist,esp_timer,500,3421
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (101285) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.004 min= 499.837 max= 500.137 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (101285) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.212 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,214
+hist,esp_timer,500,3419
+hist,esp_timer,501,1
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (103305) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.025 min= 498.875 max= 501.075 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,16
+hist,GPTimer,500,4022
+hist,GPTimer,501,1
+[0;32mI (103305) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.815 min= 492.817 max= 506.363 (us)[0m
+hist,esp_timer,492,2
+hist,esp_timer,494,201
+hist,esp_timer,497,1
+hist,esp_timer,498,1
+hist,esp_timer,499,216
+hist,esp_timer,500,3422
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (105335) lab2: GPTimer   n= 4060 ort= 500.000 ss=  0.032 min= 498.550 max= 501.438 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,23
+hist,GPTimer,500,4035
+hist,GPTimer,501,1
+[0;32mI (105335) lab2: esp_timer n= 4060 ort= 500.000 ss=  1.814 min= 492.192 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,216
+hist,esp_timer,500,3433
+hist,esp_timer,501,3
+hist,esp_timer,505,202
+hist,esp_timer,506,1
+[0;32mI (107355) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.016 min= 499.288 max= 500.637 (us)[0m
+hist,GPTimer,499,19
+hist,GPTimer,500,4021
+[0;32mI (107355) lab2: esp_timer n= 4033 ort= 500.002 ss=  1.812 min= 494.188 max= 506.363 (us)[0m
+hist,esp_timer,494,201
+hist,esp_timer,498,2
+hist,esp_timer,499,213
+hist,esp_timer,500,3412
+hist,esp_timer,501,3
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (109375) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.012 min= 499.500 max= 500.500 (us)[0m
+hist,GPTimer,499,15
+hist,GPTimer,500,4025
+[0;32mI (109375) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.812 min= 494.188 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,497,1
+hist,esp_timer,499,214
+hist,esp_timer,500,3421
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (111395) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.029 min= 498.700 max= 501.275 (us)[0m
+hist,GPTimer,498,1
+hist,GPTimer,499,18
+hist,GPTimer,500,4020
+hist,GPTimer,501,1
+[0;32mI (111395) lab2: esp_timer n= 4047 ort= 499.998 ss=  1.815 min= 492.767 max= 506.363 (us)[0m
+hist,esp_timer,492,2
+hist,esp_timer,494,201
+hist,esp_timer,497,1
+hist,esp_timer,498,1
+hist,esp_timer,499,214
+hist,esp_timer,500,3424
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1
+[0;32mI (113425) lab2: GPTimer   n= 4060 ort= 500.000 ss=  0.007 min= 499.788 max= 500.225 (us)[0m
+hist,GPTimer,499,18
+hist,GPTimer,500,4042
+[0;32mI (113425) lab2: esp_timer n= 4053 ort= 500.002 ss=  1.812 min= 494.200 max= 506.363 (us)[0m
+hist,esp_timer,494,202
+hist,esp_timer,498,2
+hist,esp_timer,499,216
+hist,esp_timer,500,3428
+hist,esp_timer,501,2
+hist,esp_timer,505,202
+hist,esp_timer,506,1
+[0;32mI (115445) lab2: GPTimer   n= 4040 ort= 500.000 ss=  0.012 min= 499.475 max= 500.475 (us)[0m
+hist,GPTimer,499,16
+hist,GPTimer,500,4024
+[0;32mI (115445) lab2: esp_timer n= 4040 ort= 500.000 ss=  1.814 min= 492.767 max= 506.363 (us)[0m
+hist,esp_timer,492,1
+hist,esp_timer,494,201
+hist,esp_timer,497,1
+hist,esp_timer,498,1
+hist,esp_timer,499,214
+hist,esp_timer,500,3418
+hist,esp_timer,501,2
+hist,esp_timer,505,201
+hist,esp_timer,506,1

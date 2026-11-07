@@ -1,0 +1,8 @@
+﻿I (166) cpu_start: GPIO 44 and 43 are used as console UART I/O pins
+I (169) app_init: Application information:
+I (173) app_init: Project name:     esp32_vize
+I (194) app_init: ESP-IDF:          v6.1
+I (267) main_task: Calling app_main()
+I (272) vize: WHO_AM_I = 0x70
+I (273) vize: MPU-6050 bulundu
+I (276) main_task: Returned from app_main()

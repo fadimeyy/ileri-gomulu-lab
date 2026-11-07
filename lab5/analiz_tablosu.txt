@@ -1,0 +1,5 @@
+| Dosya | Örnek | Pi ort. hız (örnek/s) | ESP aralık ort. (ms) | ESP aralık std (ms) | min / maks (ms) | ESP hızı (Hz) |
+|---|---|---|---|---|---|---|
+| olcum_50hz.csv | 5739 | 50.0 | 20.00 | 0.58 | 19 / 21 | 50.0 |
+| olcum_hiz10.csv | 742 | 10.0 | 100.00 | 0.00 | 100 / 100 | 10.0 |
+| olcum_hiz100_kirpik.csv | 5676 | 100.0 | 10.00 | 0.00 | 10 / 10 | 100.0 |
